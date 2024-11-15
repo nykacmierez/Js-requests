@@ -1,7 +1,7 @@
 {
   "name": "alura-play",
   "version": "1.0.0",
-  "description": "<p align=\"center\"> <img src=\"https://github.com/josevflores911/JavaScript/blob/main/img/encabezado/screenshoot_d.PNG\" alt=\"Javascript: creando requisiciones\"> </p>",
+  "description": "plataforma de intercambio de videos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
