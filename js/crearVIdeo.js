@@ -14,7 +14,7 @@ async function crearVideo(evento) {
 
     await conexionAPI.enviarVideo(titulo,descripcion,url,imagen);
 
-    window.location.href="../page/envio-concluido.html";
+    window.location.href="../pages/envio-concluido.html";
 };
 
 formulario.addEventListener("submit",evento => crearVideo(evento));
